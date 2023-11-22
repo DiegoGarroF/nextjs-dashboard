@@ -53,12 +53,7 @@ We have a list of [good first issues](https://github.com/vercel/next.js/labels/g
 
 ## Authors
 
-- Tim Neutkens ([@timneutkens](https://twitter.com/timneutkens))
-- Naoyuki Kanezawa ([@nkzawa](https://twitter.com/nkzawa))
-- Guillermo Rauch ([@rauchg](https://twitter.com/rauchg))
-- Arunoda Susiripala ([@arunoda](https://twitter.com/arunoda))
-- Tony Kovanen ([@tonykovanen](https://twitter.com/tonykovanen))
-- Dan Zajdband ([@impronunciable](https://twitter.com/impronunciable))
+- Diego Garro ([@timneutkens](https://x.com/diegogarro1994?t=XLnT7n7s-wNbamKusf47cg&s=35))
 
 ## Security
 
